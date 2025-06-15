@@ -2,11 +2,11 @@
 
 This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5).
 
-![Preview](./preview.jpg)
+![Preview](active-states.jpg)
 
 ## 🚀 Live Preview
 
-👉 [View Site](https://yourusername.github.io/intro-section-with-dropdown-navigation-main)
+👉 [View Site](https://notorious-code.github.io/intro-section-with-dropdown-navigation-main/)
 
 ## 🛠️ Built With
 
